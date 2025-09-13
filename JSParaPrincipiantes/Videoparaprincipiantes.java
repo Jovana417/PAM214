@@ -3,3 +3,16 @@
 //las querían que fueran las más utilizadas por los usuarios es decir querían que solo una fuera mejor y estaban agregando funcinalidad a sus navegadores
 //de manera que los programadores puedan crear sistios web de manera más atractiva para el usuario,
 //y de esta manera Netscape creo JavaScript era que los desarrolladores pudieran hacer que los sitios o páginas web pudieran hacer mucho más es decir que pudieran hacer mini videojuegos, animaciones entre otros .
+
+
+//Para abrir la consola abrimos un navegador y presionamos 
+//CRTL+Mayús+i
+
+//Maneras de obtener un hola mundo (consola y documento) 
+//lo podemos hacer porque JavaScript controla cómo un sitio web se comporta
+//>consola.log("Hello World");--Muestra un mensaje típico
+//Hello World
+//>document.write("Hello World")
+//
+//TIPOS DE DATOS
+//
